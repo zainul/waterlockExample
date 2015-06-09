@@ -1,3 +1,2 @@
 # waterlockExample
-
-a [Sails](http://sailsjs.org) application
+Example usage waterlock js with local-authentication
